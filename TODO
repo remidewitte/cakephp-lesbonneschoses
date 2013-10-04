@@ -1,0 +1,11 @@
+# TBD
+- Search
+- Oauth
+- linkResolve and links with ?ref=
+- Slug checks
+- notFound handling
+
+# Problems / differences
+- spans in about page
+- product.gallery[0]
+- ->id and ->slug()

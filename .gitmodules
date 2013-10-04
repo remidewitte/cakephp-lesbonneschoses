@@ -1,0 +1,3 @@
+[submodule "app/Vendor/prismic-php-kit"]
+	path = app/Vendor/prismic-php-kit
+	url = https://github.com/remidewitte/php-kit.git
